@@ -1,0 +1,26 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\spawnEnemy.cs">
+    <Files>
+      <File FileName="Assets\Scripts\shop.cs" Line="60" Column="10" />
+      <File FileName="Assets\Scripts\move.cs" Line="299" Column="36" />
+      <File FileName="Assets\Scripts\NetworkManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\moveEnemy.cs" Line="21" Column="3" />
+      <File FileName="Assets\Scripts\Ads.cs" Line="22" Column="54" />
+      <File FileName="Assets\Scripts\play.cs" Line="40" Column="1" />
+      <File FileName="Assets\Scripts\stat.cs" Line="77" Column="38" />
+      <File FileName="Assets\Scripts\mainMenu.cs" Line="105" Column="5" />
+      <File FileName="Assets\Scripts\exit.cs" Line="5" Column="39" />
+      <File FileName="Assets\Scripts\FBholder.cs" Line="9" Column="31" />
+      <File FileName="Assets\Scripts\garage.cs" Line="71" Column="22" />
+      <File FileName="Assets\Scripts\networkCharacter.cs" Line="17" Column="61" />
+      <File FileName="Assets\Scripts\settings.cs" Line="9" Column="39" />
+      <File FileName="Assets\Scripts\input.cs" Line="15" Column="2" />
+      <File FileName="Assets\Scripts\spawnEnemy.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
